@@ -5,4 +5,4 @@ Automatic dev environement setup on Linux Distros based on "gruvebox" color sche
 * [Ubuntu 14.04 LTS](./ubuntu-14.04/README.md)
 
 # TODO list:
-- [] Create TODO list
+- [ ] Create TODO list
